@@ -1,1 +1,1 @@
-" "/etc/natas_webpass/natas17
+own
