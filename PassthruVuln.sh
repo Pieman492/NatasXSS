@@ -1,2 +1,1 @@
-
-" "$(cat /etc/natas_webpass/natas17)
+" "/etc/natas_webpass/natas17
