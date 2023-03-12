@@ -1,3 +1,2 @@
-#!/bin/bash
 
-echo \" \"$(cat /etc/natas_webpass/natas17)
+" "$(cat /etc/natas_webpass/natas17)
