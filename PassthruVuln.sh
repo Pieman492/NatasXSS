@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo *\" \"$(echo test/file)
+echo *\" \"$(cat /etc/natas_webpass/natas17)
