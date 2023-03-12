@@ -1,1 +1,1 @@
-own
+owned
